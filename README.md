@@ -142,3 +142,5 @@ Emeritus:
 
  >   T h i s   f o r k   i s   f o r   p o r t f o l i o ;   C I   d i s a b l e d .  
  
+### Fork highlights
+- Per-service K8s manifests, CI/config tweaks, flagd UI, shipping telemetry. Run: docker compose up -d.
