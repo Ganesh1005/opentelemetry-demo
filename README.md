@@ -139,3 +139,6 @@ Emeritus:
 [Teletrace]: https://github.com/teletrace/opentelemetry-demo
 [Tracetest]: https://github.com/kubeshop/opentelemetry-demo
 [Uptrace]: https://github.com/uptrace/uptrace/tree/master/example/opentelemetry-demo
+
+ >   T h i s   f o r k   i s   f o r   p o r t f o l i o ;   C I   d i s a b l e d .  
+ 
